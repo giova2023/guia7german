@@ -1,0 +1,39 @@
+﻿@page
+@model Guiovani2_20003669.Pages.IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<h1>Bienvenido a mi sitio web, @Model.visitante</h1>
+<p>El día de hoy es: @Model.fecha</p>
+
+<div class="card">
+    <h3 class="card-header">Visitantes:</h3>
+    <ul>
+        @foreach (var i in Model.visitantes)
+        {
+            <li>@i</li>
+        }
+    </ul>
+</div>
+
+
+<!-- ★ NUEVA tarjeta del ejercicio -->
+<div class="card">
+    <h3 class="card-header">Antigüedad de la página</h3>
+    <div class="card-body">
+        <p>
+            Fecha de creación:
+            @Model.fechaCreacion.ToString("dd-MM-yyyy")
+        </p>
+        <p>
+            Fecha actual:
+            @DateTime.Now.ToString("dd-MM-yyyy")
+        </p>
+        <p>
+            <strong>
+                Esta página tiene @Model.diasDesdeCreacion días.
+            </strong>
+        </p>
+    </div>
+</div>

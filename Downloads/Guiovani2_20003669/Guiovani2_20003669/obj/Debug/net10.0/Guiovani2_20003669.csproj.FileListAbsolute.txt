@@ -1,0 +1,197 @@
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\bin\Debug\net10.0\appsettings.json
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\bin\Debug\net10.0\Guiovani2_20003669.staticwebassets.runtime.json
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\bin\Debug\net10.0\Guiovani2_20003669.staticwebassets.endpoints.json
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\bin\Debug\net10.0\Guiovani2_20003669.exe
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\bin\Debug\net10.0\Guiovani2_20003669.deps.json
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\bin\Debug\net10.0\Guiovani2_20003669.runtimeconfig.json
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\bin\Debug\net10.0\Guiovani2_20003669.dll
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\bin\Debug\net10.0\Guiovani2_20003669.pdb
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\Guiovani2_20003669.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\Guiovani2_20003669.AssemblyInfoInputs.cache
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\Guiovani2_20003669.AssemblyInfo.cs
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\Guiovani2_20003669.csproj.CoreCompileInputs.cache
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\Guiovani2_20003669.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\Guiovani2_20003669.RazorAssemblyInfo.cache
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\Guiovani2_20003669.RazorAssemblyInfo.cs
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\scopedcss\bundle\Guiovani2_20003669.styles.css
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\scopedcss\projectbundle\Guiovani2_20003669.bundle.scp.css
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\xei7fxhue9-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\1v5ngqyx6p-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\sjyr69rw2n-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\hlzyco9qfu-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\ncty7x33ft-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\9t2nzbh18i-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\7j1z7z5g8s-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\16y7xt9r1o-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\0aejtaffrk-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\eam4q99hcb-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\y91bq0ndsq-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\maf6u2t4oq-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\f2f44mjqbl-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\g3mr4iai8g-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\bl8njfwpyq-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\rcvzv8w6iv-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\gim5001wun-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\3mvv59f8uh-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\3g74rfpw2b-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\p3upwxs3ta-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\33obmhntv4-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\x39zw0awg9-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\umo0owsgav-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\s7qy8v3g2t-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\mt8j4ayjrp-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\rxak3xd5b1-{0}-06098lyss8-06098lyss8.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\cdadg22rhu-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\tjzrg0di9f-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\drzrhmzfs5-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\vlhz06bdta-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\0q0w3goif5-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\0zc9g25h99-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\bqgd0gid3s-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\7jxfz3fqfg-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\atnuwmuu55-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\7appp5kecz-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\kvrh99lumi-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\x9jvg0ehyw-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\j8nyhnn2jv-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\fdd63nhg11-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\r6ko1amw5o-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\zjkextmqbe-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\mjo3wwzjod-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\qixg9c4b4c-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\sf8k3uersr-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\fntpw1qim8-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\zcz1fkkzhu-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\3lppa70p8i-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\ywla5pwku4-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\wvk44ltxpr-{0}-356vix0kms-356vix0kms.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\cdf16sa11u-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\k1jvs7rete-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\0e22cazcy9-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\uqf2bzqw76-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\dly6ikpmye-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\uzcccyb7sz-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\faxzdayhs4-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\fk4t3o6e9t-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\tblcoe4pdq-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\7o0zfj1txi-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\zb4kyj483j-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\uuhvhyl7za-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\kwu9wfli06-{0}-3sxeqqz3nt-3sxeqqz3nt.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\kgznahmyzd-{0}-3sxeqqz3nt-3sxeqqz3nt.gz
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\Guiovani2_20003669.dll
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\refint\Guiovani2_20003669.dll
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\Guiovani2_20003669.pdb
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\Guiovani2_20003669.genruntimeconfig.cache
+C:\Users\nesto\Desktop\DSA 3°\Prof. Arcides\Modulo 1\Practica 5\Ejercicios net aplicaciones web\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\ref\Guiovani2_20003669.dll
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\bin\Debug\net10.0\appsettings.json
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\bin\Debug\net10.0\Guiovani2_20003669.staticwebassets.runtime.json
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\bin\Debug\net10.0\Guiovani2_20003669.staticwebassets.endpoints.json
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\bin\Debug\net10.0\Guiovani2_20003669.exe
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\bin\Debug\net10.0\Guiovani2_20003669.deps.json
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\bin\Debug\net10.0\Guiovani2_20003669.runtimeconfig.json
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\bin\Debug\net10.0\Guiovani2_20003669.dll
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\bin\Debug\net10.0\Guiovani2_20003669.pdb
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\Guiovani2_20003669.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\Guiovani2_20003669.AssemblyInfoInputs.cache
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\Guiovani2_20003669.AssemblyInfo.cs
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\Guiovani2_20003669.csproj.CoreCompileInputs.cache
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\Guiovani2_20003669.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\Guiovani2_20003669.RazorAssemblyInfo.cache
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\Guiovani2_20003669.RazorAssemblyInfo.cs
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\Guiovani2_20003669.sourcelink.json
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\scopedcss\bundle\Guiovani2_20003669.styles.css
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\scopedcss\projectbundle\Guiovani2_20003669.bundle.scp.css
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\xei7fxhue9-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\1v5ngqyx6p-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\sjyr69rw2n-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\hlzyco9qfu-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\ncty7x33ft-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\9t2nzbh18i-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\7j1z7z5g8s-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\16y7xt9r1o-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\0aejtaffrk-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\eam4q99hcb-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\y91bq0ndsq-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\maf6u2t4oq-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\f2f44mjqbl-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\g3mr4iai8g-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\bl8njfwpyq-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\rcvzv8w6iv-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\gim5001wun-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\3mvv59f8uh-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\3g74rfpw2b-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\p3upwxs3ta-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\33obmhntv4-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\x39zw0awg9-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\umo0owsgav-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\s7qy8v3g2t-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\mt8j4ayjrp-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\rxak3xd5b1-{0}-06098lyss8-06098lyss8.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\cdadg22rhu-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\tjzrg0di9f-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\drzrhmzfs5-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\vlhz06bdta-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\0q0w3goif5-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\0zc9g25h99-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\bqgd0gid3s-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\7jxfz3fqfg-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\atnuwmuu55-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\7appp5kecz-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\kvrh99lumi-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\x9jvg0ehyw-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\j8nyhnn2jv-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\fdd63nhg11-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\r6ko1amw5o-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\zjkextmqbe-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\mjo3wwzjod-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\qixg9c4b4c-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\sf8k3uersr-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\fntpw1qim8-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\zcz1fkkzhu-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\3lppa70p8i-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\ywla5pwku4-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\wvk44ltxpr-{0}-356vix0kms-356vix0kms.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\cdf16sa11u-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\k1jvs7rete-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\0e22cazcy9-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\uqf2bzqw76-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\dly6ikpmye-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\uzcccyb7sz-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\faxzdayhs4-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\fk4t3o6e9t-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\tblcoe4pdq-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\7o0zfj1txi-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\zb4kyj483j-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\uuhvhyl7za-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\kwu9wfli06-{0}-3sxeqqz3nt-3sxeqqz3nt.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\compressed\kgznahmyzd-{0}-3sxeqqz3nt-3sxeqqz3nt.gz
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\Guiovani2_20003669.dll
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\refint\Guiovani2_20003669.dll
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\Guiovani2_20003669.pdb
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\Guiovani2_20003669.genruntimeconfig.cache
+C:\Users\guioj\Downloads\Guiovani2_20003669\Guiovani2_20003669\obj\Debug\net10.0\ref\Guiovani2_20003669.dll

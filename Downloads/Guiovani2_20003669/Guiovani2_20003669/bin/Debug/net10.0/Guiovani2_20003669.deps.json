@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Guiovani2_20003669/1.0.0": {
+        "runtime": {
+          "Guiovani2_20003669.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Guiovani2_20003669/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
